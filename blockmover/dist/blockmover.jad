@@ -1,0 +1,9 @@
+MIDlet-1: Midlet, ,blockmover.DrawBlockMidlet
+MIDlet-2: MyCanvas, , blockmover.MyCanvas
+MIDlet-Jar-Size: 3735
+MIDlet-Jar-URL: blockmover.jar
+MIDlet-Name: blockmover
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
